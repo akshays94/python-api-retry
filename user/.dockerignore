@@ -1,0 +1,60 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### SublimeText ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# Basics
+*.py[cod]
+__pycache__
+
+# Environments
+*.env
+
+# Logs
+logs
+*.log
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+htmlcov
+
+# Pycharm
+.idea/*
+
+# Vim
+*~
+*.swp
+*.swo
+
+# User-uploaded media
+staticfiles/
+
+temp.*
+*.orig
+.vscode
+.idea
+static/
+exec.sh
+local.py
+
+# Media files
+tenant.test.com
+ra.reimburse.localhost
+
+compose/
+.gitlab-ci.yml
+development.yml
+test.yml
+local.yml
